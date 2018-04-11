@@ -1,0 +1,8 @@
+[
+  {"id": 1, "title": "Art and Culture", "img": "/images/culture.png"},
+  {"id": 2, "title": "UNESCO Heritage", "img": "/images/unesco-h.png"},
+  {"id": 3, "title": "Nature and Adventure", "img": "/images/nature-a.png"},
+  {"id": 4, "title": "Cities", "img": "/images/city.png"},
+  {"id": 5, "title": "Architecture", "img": "/images/architec1.png"}
+
+]
